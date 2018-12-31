@@ -7,4 +7,5 @@ package com.znlccy.controller;
  * comment: 权限控制器
  */
 public class AuthController {
+
 }
